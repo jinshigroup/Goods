@@ -1,4 +1,4 @@
-# Product Display Project
+# Goods Project
 
 This project displays products in a grid layout with search functionality and image modal viewing.
 
@@ -47,7 +47,7 @@ All product information is stored in the `js/products.js` file. Each product obj
 ```javascript
 {
     id: "Unique product identifier",
-    name: "Product display name",
+    name: "Product name",
     images: [
         "Array of image paths for the product modal",
     ],
