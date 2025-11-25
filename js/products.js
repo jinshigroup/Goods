@@ -120,9 +120,9 @@ const products = [
         id: "P010",
         name: "IPHONE 17 PRO",
         images: [
-            "images/P010/image1.jpg"
+            "images/P010/1.jpg"
         ],
-        thumbnail: "images/P010/image1.jpg",
+        thumbnail: "images/P010/1.jpg",
         prices: {
             kigali: "80000 RF",
             muhanga: "90000 RF"
